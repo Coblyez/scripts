@@ -1,0 +1,160 @@
+{
+  "name": "Snekka",
+  "version": "2.0",
+  "description": "A theme made for snek",
+  "color": "#0c3100",
+  "authors": [
+    {
+      "name": "nexterals",
+      "id": "890340053153382460"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#008c0d",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#008c0d",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#dbffde",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#dbffde",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#00950e",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#00950e",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#00950e",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#00950e",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0a0a0a",
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#0c3100",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#0c3100",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#0c3100",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "#000000"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#292929",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0c3100",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#155600",
+      "#007e0c"
+    ],
+    "TEXT_LINK": [
+      "#39ff4e",
+      "#BB000E"
+    ],
+    "CHANNEL_ICON": [
+      "#28a500",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#FFFFFF",
+    "PRIMARY_DARK_100": "#29a900",
+    "PRIMARY_DARK_200": "#29a900",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#FFFFFF",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/955224460720500786/1151827168196841533/IMG_4645.jpg",
+    "alpha": 1.0
+  }
+}
