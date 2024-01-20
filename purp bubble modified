@@ -2,3 +2,9 @@ local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryzzchips/MOON-GOD-SCRIPTS/main/Ryzzchips%20tool"))()
 
+game:GetService("StarterGui"):SetCore("SendNotification", {
+	Title = "Modified by nexterals",
+	Text = "Added permanent q-tool",
+	Duration = 10
+
+})
