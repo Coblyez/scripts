@@ -1,3 +1,2 @@
-loadstring(game:HttpGet('https://scripts.luawl.com/14245/JailbreakerFree.lua'))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/free"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Coblyez/scripts/main/fun%20thing"))()
