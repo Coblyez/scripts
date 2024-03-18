@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/free"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Coblyez/scripts/main/fun%20thing"))()
